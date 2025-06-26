@@ -1,2 +1,1 @@
-# alu-higher_level_programming
-For Python Intranet Projects 
+for python intranet Projects 
